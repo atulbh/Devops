@@ -2,3 +2,9 @@ Git install
 git config --global user.name "Atul Bhatia" 
 git config --global user.email "Atul Bhatia"
 git config --list 
+
+git commit -m "this is my first commit"
+
+git log (to check history)
+git log --author="Atul"
+git status 
