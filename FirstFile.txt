@@ -1,0 +1,4 @@
+Git install
+git config --global user.name "Atul Bhatia" 
+git config --global user.email "Atul Bhatia"
+git config --list 
