@@ -9,6 +9,7 @@ git log (to check history)
 git log --author="Atul"
 git status 
 
+git diff
 
 http://download.eclipse.org/egit/updates
 
