@@ -8,3 +8,8 @@ git commit -m "this is my first commit"
 git log (to check history)
 git log --author="Atul"
 git status 
+
+
+http://download.eclipse.org/egit/updates
+
+this is my first file but now I have made some changes
